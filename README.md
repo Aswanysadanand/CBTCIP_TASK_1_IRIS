@@ -1,1 +1,1 @@
-# CBTCIP_TASK_1_IRIS
+Iris flower has three species: setosa ,versicolour and virginica, which differs according to their measurements.Here the task is to train a machine learning model that canlearn from themeasurements of the iris species and classify them.
